@@ -1,10 +1,10 @@
 ---
-title: It's All Gibberish!
-author: chad-collins
+title: Ronin
+author: Ronin
 tags:
   - Development
   - Design
-excerpt: Lorem ipsum has a deeper meaning.
+excerpt: Samurai taking over.
 date: 2020-07-30T21:58:14.606Z
 featuredImage: uploads/doggo.png
 ---

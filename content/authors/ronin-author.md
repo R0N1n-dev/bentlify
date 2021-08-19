@@ -1,9 +1,9 @@
 ---
-id: chad-collins
-title: 'Chad Collins'
-link: 'github.com/chad-collins'
+id: R0N1n-dev
+title: 'Maurice Jones-drew'
+link: 'github.com/R0N1n-dev'
 image: 'uploads/author-images/author-avatar.png'
-email: 'contact@chadcollins.net'
+email: 'ronin:katana.net'
 blurb: 'a little somethin somethin'
 ---
 
