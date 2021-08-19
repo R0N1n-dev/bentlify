@@ -3,11 +3,10 @@
     <section class="section">
       <div class="container">
         <div class="content">
-          <h2>About us</h2>
+          <h2>About Me</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi,
-            eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem
-            dolores inventore iste reprehenderit maxime! Iusto.
+            A self -taught developer interested in Vue JS and now delving into the backend with NodeJS and GraphQL.
+            This is my way of getting the stories in my head out.
           </p>
         </div>
       </div>
@@ -18,7 +17,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'About us',
+    title: 'About me',
   },
 };
 </script>
