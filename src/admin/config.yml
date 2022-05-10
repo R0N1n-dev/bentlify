@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: chad-collins/gridsome-starter-netlifycms-buefy
+  repo: R0N1n-dev/bentlify
 
 media_folder: 'static/uploads'
 public_folder: 'uploads'
